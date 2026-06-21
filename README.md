@@ -80,15 +80,22 @@ Top predictors: alcohol (0.134) → ADI Arrhenius (0.107) → density (0.105)
 
 Python · pandas · scikit-learn · matplotlib · seaborn · Google Colab
 
+Dataset: Wine Quality UCI — Cortez et al. (2009)
+Source: https://archive.ics.uci.edu/dataset/186/wine+quality
+
 ---
 
 ## References
 
-Cortez et al. (2009). *Decision Support Systems, 47*(4), 547–553.
-Kahneman & Tversky (1979). *Econometrica, 47*(2), 263–292.
-Labuza (1982). *Shelf-Life Dating of Foods.* Food & Nutrition Press.
-Leistner & Gould (2002). *Hurdle Technologies.* Springer.
-Thaler (2015). *Misbehaving.* W.W. Norton & Company.
+Cortez, P. et al. (2009). *Decision Support Systems, 47*(4), 547–553.
+
+Kahneman, D. & Tversky, A. (1979). *Econometrica, 47*(2), 263–292.
+
+Labuza, T.P. (1982). *Shelf-Life Dating of Foods.* Food & Nutrition Press.
+
+Leistner, L. & Gould, G.W. (2002). *Hurdle Technologies.* Springer.
+
+Thaler, R.H. (2015). *Misbehaving.* W.W. Norton & Company.
 
 ---
 
