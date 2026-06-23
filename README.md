@@ -22,6 +22,19 @@ durante la producción normal (pH, alcohol, acidez, sulfatos).
 
 ---
 
+## Visualizations / Visualizaciones
+
+![Quality Distribution](bpif_p5_01_quality_distribution.png)
+
+![Hurdle Variables](bpif_p5_02_hurdle_variables.png)
+
+![Correlation Matrix](bpif_p5_03_correlation_matrix.png)
+
+![Arrhenius Validation](bpif_p5_04_arrhenius_validation.png)
+
+![Random Forest Results](bpif_p5_05_random_forest_results.png)
+
+
 ## The problem it solves / El problema que resuelve
 
 Shelf-life certification costs $10,000–$15,000 MXN per batch and takes weeks.
