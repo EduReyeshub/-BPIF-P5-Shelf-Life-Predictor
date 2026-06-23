@@ -8,6 +8,8 @@
 
 ---
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10nhMxLzp8FuufLS2tBr4AjpYA15Vkj3a?usp=sharing)
+
 ## What this does / Qué hace
 
 **EN:** Predicts whether a fermented beverage batch is LOW, MEDIUM, or HIGH quality
